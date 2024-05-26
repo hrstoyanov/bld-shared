@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shared/helidon/helidon.iml" filepath="$PROJECT_DIR$/shared/helidon/helidon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/src/bld/platform-bld.iml" filepath="$PROJECT_DIR$/platform/src/bld/platform-bld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/src/main/platform-main.iml" filepath="$PROJECT_DIR$/platform/src/main/platform-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared-bld.iml" filepath="$PROJECT_DIR$/shared/shared-bld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/utilities/utilities.iml" filepath="$PROJECT_DIR$/shared/utilities/utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/webassets/webassets.iml" filepath="$PROJECT_DIR$/shared/webassets/webassets.iml" />
+    </modules>
+  </component>
+</project>

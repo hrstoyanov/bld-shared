@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-webassets-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-web-assets-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-webassets-0.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-webassets-0.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-webassets-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-web-assets-0.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-web-assets-0.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-webassets-0.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/peruncs-webassets-0.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/shared/webassets/build/dist/shared-webassets-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
