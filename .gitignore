@@ -2,7 +2,7 @@
 .DS_Store
 
 # Project excludes
-**/lib/bld
+
 !**/lib/bld/bld-wrapper.jar
 !**/lib/bld/bld-wrapper.properties
 **/lib/compile
